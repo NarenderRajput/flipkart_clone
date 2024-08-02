@@ -9,6 +9,7 @@ img {
 
 * {
     box-sizing: border-box;
+    font-family: inter_regular, fallback-inter_regular, Arial, sans-serif;
 }
 
 .header {
@@ -59,7 +60,7 @@ img {
 .div2 a {
     text-decoration: none;
     color: black;
-    font-size: 20px;
+    font-size: 16px;
     margin: 0px 20px;
 }
 
@@ -305,7 +306,6 @@ img {
     }
 
     .div2 a {
-        font-weight: 600;
         margin: 0px 5px;
     }
 
@@ -374,9 +374,7 @@ img {
         display: none;
     }
 
-    .div2 a:last-child {
-        display: inline-block;
-    }
+    
 
     .div2 i {
         font-size: 20px;
@@ -452,6 +450,10 @@ img {
         font-weight: 600;
     }
 
+    .div3 {
+        width: 30%;
+    }
+
     .wrapper {
         display: inline-block;
     }
@@ -471,7 +473,7 @@ img {
     }
 
     .div7 {
-        width: 47%;
+        width: 90%;
     }
 
     .div7 img {
@@ -480,11 +482,15 @@ img {
     }
 
     .div9 {
-        width: 48%;
+        width: 90%;
     }
 
     .div9 img{
         width: 200px;
+    }
+
+    .div11 {
+        width: 90%;
     }
 
     .div14 {
