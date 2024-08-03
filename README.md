@@ -1,11 +1,11 @@
-# Quiz App
+# Flipkart
 This is HTML, CSS and Web Designing. 
 
 ## Tech Stack
 
 **HTML**, **CSS**
 
-## Features
+## Key Points
 1. CSS
 2. Font Awesome
 3. 
