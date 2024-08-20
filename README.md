@@ -14,5 +14,5 @@ https://narenderrajput.github.io/flipkart_clone/
 
 # Screenshot
 
-![Screenshot](./Flipcart.png)
-![Screenshot](./Flipkart%20Responsive.png)
+![Screenshot](./Screenshot1.png)
+![Screenshot](./Screenshot2.png)
